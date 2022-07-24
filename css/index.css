@@ -1,4 +1,5 @@
 #App {
+  width: 100%;
   padding: 0;
   margin: 0;
   background-color: #111;
@@ -47,6 +48,10 @@ header #nav2 {
   align-items: center;
   padding: 0;
   color: white;
+}
+
+#nav2 h4{
+  font-size: 30px;
 }
 
 #listado {
@@ -108,6 +113,7 @@ li>a i:hover {
 
 /* imagen */
 #img1{
+  box-sizing: border-box;
   width: 100%;
   height: 94vh;
   background-color: #000;
@@ -122,7 +128,8 @@ li>a i:hover {
 }
 
 /* Cuadro */
-#cuadroX2{
+#cuadroX2{ 
+  box-sizing: border-box;
   position: fixed;
   background-color: #111;
   top: 50px;
@@ -220,6 +227,7 @@ li>a i:hover {
 
 /* take */
 #takeContent{
+  box-sizing: border-box;
   position: fixed;
   top: 40px;
   width: 100%;
@@ -270,6 +278,7 @@ li>a i:hover {
 /* camara */
 
 #camara{
+  box-sizing: border-box;
   top: 40px;
   position: fixed;
   width: 100%;
@@ -319,6 +328,7 @@ li>a i:hover {
 #camara div h2, #camara div h2 span{
   font-size: 85px;
   font-weight: 600;
+  color: #aaa;
 }
 #camara div h2 span{
   color: #fff;
@@ -327,12 +337,14 @@ li>a i:hover {
 /* Desc */
 
 #desc {
+  box-sizing: border-box;
   width: 100%;
   height: 110vh;
   margin-top: 100vh;
   border-top: 40px solid #111;
   background-image: url("/img/p_white.jpg");
   background-color: #000;
+  /* background-position: 220% 250%; */
   background-position: 220% 2500%;
   background-size: 75%;
   background-repeat: no-repeat;
@@ -350,6 +362,7 @@ li>a i:hover {
 
 /* paisaje */
 #paisaje{
+  box-sizing: border-box;
   width: 100%;
   height: min-content;
   padding: 60px 0;
@@ -402,6 +415,7 @@ li>a i:hover {
   background-color: #fff;
 }
 #gracias {
+  box-sizing: border-box;
   width: 100%;
   height: min-content;
   padding: 70px 0;
