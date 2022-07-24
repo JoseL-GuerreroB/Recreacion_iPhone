@@ -120,7 +120,7 @@ li>a i:hover {
   border-bottom: 40px solid #111;
   border-left: 30px solid #111;
   border-right: 30px solid #111;
-  background-image: url("/img/p_pieR.png");
+  background-image: url("/Recreacion_iPhone/img/p_pieR.png");
   background-size: 50%;
   background-position: 50% -25%;
   background-repeat: no-repeat;
@@ -203,14 +203,14 @@ li>a i:hover {
   background-color: #000;
 }
 #imgContent div:nth-child(1){
-  background-image: url("/img/p_pieR.png");
+  background-image: url("/Recreacion_iPhone/img/p_pieR.png");
   background-repeat: no-repeat;
   background-size: 150%;
   background-position: -40% -10%;
   justify-self: start;
 }
 #imgContent div:nth-child(2) {
-  background-image: url("/img/p_pieR.png");
+  background-image: url("/Recreacion_iPhone/img/p_pieR.png");
   background-repeat: no-repeat;
   background-size: 140%;
   background-position: -40% 5%;
@@ -218,7 +218,7 @@ li>a i:hover {
   justify-self: center;
 }
 #imgContent div:nth-child(3) {
-  background-image: url("/img/p_pieR.png");
+  background-image: url("/Recreacion_iPhone/img/p_pieR.png");
   background-repeat: no-repeat;
   background-size: 55%;
   background-position: 50% 50%;
@@ -269,7 +269,7 @@ li>a i:hover {
 #takeI{
   justify-self: end;
   width: 98%;
-  background: url("/img/p_persp.jpg");background-color: #000;
+  background: url("/Recreacion_iPhone/img/p_persp.jpg");background-color: #000;
   background-repeat: no-repeat;
   background-size: 175% ;
   background-position: 50% 100%;
@@ -291,7 +291,7 @@ li>a i:hover {
   width: 100%;
   height: 100%;
   background-size: 45%;
-  background-image: url("/img/circulo2.jpg");
+  background-image: url("/Recreacion_iPhone/img/circulo2.jpg");
   background-position: 100% 250%;
   background-repeat: no-repeat;
   z-index: 1;
@@ -302,7 +302,7 @@ li>a i:hover {
   width: 100%;
   height: 100%;
   background-size: 45%;
-  background-image: url("/img/circulo2.jpg");
+  background-image: url("/Recreacion_iPhone/img/circulo2.jpg");
   background-position: 10% -150%;
   background-repeat: no-repeat;
   z-index: 2;
@@ -313,7 +313,7 @@ li>a i:hover {
   width: 100%;
   height: 100%;
   background-size: 45%;
-  background-image: url("/img/circulo2.jpg");
+  background-image: url("/Recreacion_iPhone/img/circulo2.jpg");
   background-position: 15% 50%;
   background-repeat: no-repeat;
   z-index: 3;
@@ -342,7 +342,7 @@ li>a i:hover {
   height: 110vh;
   margin-top: 100vh;
   border-top: 40px solid #111;
-  background-image: url("/img/p_white.jpg");
+  background-image: url("/Recreacion_iPhone/img/p_white.jpg");
   background-color: #000;
   /* background-position: 220% 250%; */
   background-position: 220% 2500%;
